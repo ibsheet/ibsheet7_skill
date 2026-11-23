@@ -1,0 +1,9 @@
+{
+  "name": "ibsheet7",
+  "version": "1.0.0",
+  "description": "IBSheet7 웹 그리드 개발 지원 스킬 — 공식 매뉴얼·Q&A 지식집·운영 가이드를 근거로 코드 작성과 오류 해결을 돕습니다.",
+  "author": { "name": "IBSheet" },
+  "homepage": "https://github.com/ibsheet/ibsheet7_skill",
+  "repository": "https://github.com/ibsheet/ibsheet7_skill",
+  "keywords": ["ibsheet", "ibsheet7", "grid", "skill"]
+}

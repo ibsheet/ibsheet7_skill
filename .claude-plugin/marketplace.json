@@ -1,0 +1,11 @@
+{
+  "name": "ibsheet7-skill",
+  "owner": { "name": "IBSheet" },
+  "plugins": [
+    {
+      "name": "ibsheet7",
+      "source": "./",
+      "description": "IBSheet7 웹 그리드 개발 지원 스킬 (매뉴얼·Q&A·가이드 기반)"
+    }
+  ]
+}
